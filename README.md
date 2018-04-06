@@ -1,4 +1,2 @@
-# replit-rechhabra
-# In case I forget my usernames:
-# Computer Science: SkiMask
-# Mu Alpha Theta: chhabra
+#Precalculus Website (trial)
+#Code is in Copyright, not all code.
