@@ -1,0 +1,119 @@
+SPAN.TestName
+{
+	font-size: x-large;
+	text-decoration: underline;
+	width: 100%;
+	text-align: center;
+}
+body{			
+	background-image: url("https://wallup.net/wp-content/uploads/2017/03/27/427778-minimalism-triangle-black-abstract.jpg");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+SPAN.ReportHeader
+{
+	font-size: xx-large;
+	color: red;
+}
+SPAN.QuestionHeader
+{
+	font-size: x-large;
+	text-decoration: underline;
+}
+SPAN.theanswer
+{
+	font-size: x-large;
+	color: white;
+}
+TABLE
+{
+	text-align: center;
+	width: 50%;
+	border-collapse: collapse;
+	margin-top: 30px;
+}
+TD
+{
+	border-right: white 1px solid;
+	border-top: white 1px solid;
+	border-left: white 1px solid;
+	border-bottom: white 1px solid;
+}
+TABLE.bare
+{
+	border-right: medium none;
+	border-top: medium none;
+	border-left: medium none;
+	border-bottom: medium none;
+		width:auto;
+}
+TABLE.bare TD
+{
+	border-right: medium none;
+	border-top: medium none;
+	border-left: medium none;
+	border-bottom: medium none;
+}
+TD.emph
+{
+	font-weight: bold;
+	text-decoration: underline;
+	padding-left:40px;
+	padding-right:5px;
+}
+TD.blankcount
+{
+	color: navy;
+	text-align: right;
+}
+TD.rightcount
+{
+	color: green;
+	text-align: right;
+}
+TD.wrongcount
+{
+	color: red;
+	text-align: right;
+}
+
+TD.nobor{
+ border-top: none;
+ border-bottom: none;
+ border-left:none;
+ border-right:none;
+}
+
+TD.a{
+  font-weight: bold;
+  color: white;
+}
+
+TD.R
+{
+  font-weight: bold;
+	color: green;
+}
+TD.W
+{
+	color: red;
+}
+TD.B
+{
+	color: white;
+}
+TABLE TR.H TD
+{
+	font-weight: bold;
+	color: #3708F8;
+	border-top: none;
+}
+TABLE TR.A TD
+{
+	background-color: 000000;/*#E6EEF8;*/
+}
+TD.AltCol
+{
+	border-left: white 3px solid;
+}
